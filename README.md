@@ -1,6 +1,6 @@
 # A Survey on AI for AI
 
-[![Preprint](https://img.shields.io/badge/Preprint-preprints.org-b31b1b)](https://doi.org/10.20944/preprints202609.0591.v1)
+[![Preprint](https://img.shields.io/badge/Preprint-preprints.org-b31b1b)](https://doi.org/10.20944/preprints202609.0591.v2)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://3dagentworld.github.io/AI4AI-survey/)
 [![Papers](https://img.shields.io/badge/Papers-195-green)](PAPERS.md)
 [![Code](https://img.shields.io/badge/Papers_with_code-108-orange)](https://3dagentworld.github.io/AI4AI-survey/papers.html?code=1)
@@ -17,8 +17,8 @@ Companion website and searchable paper list for
 
 ```bibtex
 @article{202609.0591,
-  doi       = {10.20944/preprints202609.0591.v1},
-  url       = {https://doi.org/10.20944/preprints202609.0591.v1},
+  doi       = {10.20944/preprints202609.0591.v2},
+  url       = {https://doi.org/10.20944/preprints202609.0591.v2},
   year      = 2026,
   month     = {September},
   publisher = {Preprints},
