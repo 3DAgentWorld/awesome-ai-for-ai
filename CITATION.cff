@@ -11,7 +11,7 @@ authors: &survey-authors
     given-names: Hao
   - family-names: Miao
     given-names: Chunyan
-repository-code: https://github.com/3DAgentWorld/AI4AI-survey
+repository-code: https://github.com/3DAgentWorld/awesome-ai-for-ai
 preferred-citation:
   type: article
   title: "A Survey on AI for AI: When the Improver Becomes the Improvee"

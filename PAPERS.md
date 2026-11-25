@@ -3,6 +3,8 @@
 The complete list of 195 papers reviewed or cited in the AI4AI survey.
 Titles link to publication pages; the Code column links to available repositories (108 papers).
 
+See the [README catalog](README.md#papers) to browse by survey role.
+
 | # | Title | Venue | Year | Survey role | Corpus | Code |
 |--:|-------|-------|-----:|-------------|--------|:----:|
 | 1 | [AP2O-Coder: Adaptively Progressive Preference Optimization for Reducing Compilation and Runtime Errors in LLM-Generated Code](https://doi.org/10.1609/aaai.v40i41.40771) | AAAI | 2026 | Training experience | Main + supplement | [repo](https://github.com/TsingZ0/AP2O) |
