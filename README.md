@@ -1,6 +1,4 @@
-# A Survey on AI for AI
-
-**When the Improver Becomes the Improvee**
+# A Survey on AI for AI: When the Improver Becomes the Improvee
 
 Deheng Ye · Zheng Zhang · Hao Wang · Chunyan Miao
 
