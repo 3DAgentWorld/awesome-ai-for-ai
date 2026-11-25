@@ -1,31 +1,34 @@
 # A Survey on AI for AI
 
-[![Preprint](https://img.shields.io/badge/Preprint-preprints.org-b31b1b)](https://doi.org/10.20944/preprints202609.0591.v2)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://3dagentworld.github.io/AI4AI-survey/)
-[![Papers](https://img.shields.io/badge/Papers-195-green)](PAPERS.md)
-[![Code](https://img.shields.io/badge/Papers_with_code-108-orange)](https://3dagentworld.github.io/AI4AI-survey/papers.html?code=1)
+**When the Improver Becomes the Improvee**
 
-Companion website and searchable paper list for
-**“A Survey on AI for AI: When the Improver Becomes the Improvee”**.
+Deheng Ye · Zheng Zhang · Hao Wang · Chunyan Miao
 
-- [Project page](https://3dagentworld.github.io/AI4AI-survey/)
-- [Full paper](https://3dagentworld.github.io/AI4AI-survey/paper.html)
-- [Interactive paper browser](https://3dagentworld.github.io/AI4AI-survey/papers.html)
-- [Complete paper list](PAPERS.md)
+[Preprint](https://doi.org/10.20944/preprints202609.0591.v2) · [Project page](https://3dagentworld.github.io/AI4AI-survey/) · [Full text](https://3dagentworld.github.io/AI4AI-survey/paper.html) · [Browse papers](https://3dagentworld.github.io/AI4AI-survey/papers.html) · [BibTeX](#citation)
+
+[![AI for AI taxonomy organized by experience providers, evaluators, and system designers](assets/fig-taxonomy.png)](https://3dagentworld.github.io/AI4AI-survey/paper.html)
+
+The survey examines how AI systems supply learning experience, evaluate outputs, and revise models or agent workflows. It traces cases where the improver itself changes and asks what evidence shows that it improves another AI system more effectively in later rounds.
 
 ## Citation
 
+[Download BibTeX](citation.bib)
+
 ```bibtex
 @article{202609.0591,
-  doi       = {10.20944/preprints202609.0591.v2},
-  url       = {https://doi.org/10.20944/preprints202609.0591.v2},
-  year      = 2026,
-  month     = {September},
-  publisher = {Preprints},
-  author    = {Deheng Ye and Zheng Zhang and Hao Wang and Chunyan Miao},
-  title     = {A Survey on AI for AI: When the Improver Becomes the Improvee},
-  journal   = {Preprints}
+  title   = {A Survey on {AI} for {AI}: When the Improver Becomes the Improvee},
+  author  = {Ye, Deheng and Zhang, Zheng and Wang, Hao and Miao, Chunyan},
+  journal = {Preprints.org},
+  year    = {2026},
+  doi     = {10.20944/preprints202609.0591.v2},
+  url     = {https://doi.org/10.20944/preprints202609.0591.v2}
 }
 ```
 
-© 2026 Ye, Zhang, Wang & Miao. Hosted on GitHub Pages.
+## Curated literature
+
+The survey bibliography covers 195 works. The [interactive paper list](https://3dagentworld.github.io/AI4AI-survey/papers.html) supports searching and filtering, including [entries with code](https://3dagentworld.github.io/AI4AI-survey/papers.html?code=1). The full list is also available in [PAPERS.md](PAPERS.md).
+
+### Suggest a paper or correction
+
+Open an [issue](https://github.com/3DAgentWorld/AI4AI-survey/issues/new) with the title, DOI or arXiv link, the relevant taxonomy category, and a sentence explaining the connection. Include the official code link when available.
