@@ -23,7 +23,7 @@ The survey examines how AI systems supply learning experience, evaluate outputs,
 }
 ```
 
-## Curated literature
+## Awesome AI for AI
 
 The survey bibliography covers 195 works. The [interactive paper list](https://3dagentworld.github.io/AI4AI-survey/papers.html) supports searching and filtering, including [entries with code](https://3dagentworld.github.io/AI4AI-survey/papers.html?code=1). The full list is also available in [PAPERS.md](PAPERS.md).
 
