@@ -311,8 +311,6 @@ After updating `js/papers-data.js`, run `python scripts/render_paper_catalog.py`
 
 ## Citation
 
-[Download BibTeX](citation.bib)
-
 ```bibtex
 @article{202609.0591,
   title   = {A Survey on {AI} for {AI}: When the Improver Becomes the Improvee},
